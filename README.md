@@ -1,11 +1,11 @@
 # Charrejli
 
 ## About
-During the war, a lot of friends / family fled the country. As the "Computer guy" they only call when they want to setup their printers, ask if I want to join them in their next million dollar idea, or hack into their ex's instagram account. I somehow was the one responsible that their lines are properly recharged.
+During the war, many friends and family fled the country. As the go-to "computer guy"—the one they call only when they need help setting up a printer, pitching their next million-dollar idea, or, occasionally, asking me to hack their ex’s Instagram—I somehow became responsible for keeping their phone lines recharged.  
 
-Now I for myself don't use my phone and often forget to recharge it. How about handling half of the country's numbers. So I created this small app in order to help me manage their number.
+The irony? I rarely use my own phone and often forget to recharge it. So, naturally, managing half the country's numbers became my problem. To make my life easier, I built this small app to keep track of everything.
 
-I didn't want to use a pbx or something like that. But I discovered that on the operator's website, I could get the data that I need. So I wrote scrapers in order to get said data (TODO: In the future I might explore checking the mobile apps APIs as on the web, it is server side rendered)
+I didn't want to use a pbx or a similar solution. But I discovered that on the operator's website, I could get the data that I need. So I wrote scrapers in order to get said data (TODO: In the future I might explore checking the mobile apps APIs as on the web,the pages are mostly server side rendered and parsing html is no fun)
 
 If you are only interested in the scraping parts check:
 - [Touch](./src/main/java/com/mohammadalikassem/charrejli/modules/parsers/lb/touch/TouchParser.java)
