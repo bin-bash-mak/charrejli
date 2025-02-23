@@ -31,3 +31,4 @@ And with the power of the springboot ecosystem. the sky is the limit.
 - [ ] Add rule engine and link to notification provider
 - [ ] Add auth , groups , users permissions etc
 - [ ] Add PWA with push notification
+- [ ] Store session cookies in db or in an in memory object to avoid having to relogin
