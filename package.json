@@ -5,7 +5,7 @@
   "dependencies": {
     "@monaco-editor/react": "^4.7.0",
     "@polymer/polymer": "3.5.2",
-    "@vaadin/bundles": "24.6.4",
+    "@vaadin/bundles": "24.6.6",
     "@vaadin/common-frontend": "0.0.19",
     "@vaadin/hilla-file-router": "24.6.5",
     "@vaadin/hilla-frontend": "24.6.5",
@@ -65,7 +65,7 @@
   "vaadin": {
     "dependencies": {
       "@polymer/polymer": "3.5.2",
-      "@vaadin/bundles": "24.6.4",
+      "@vaadin/bundles": "24.6.6",
       "@vaadin/common-frontend": "0.0.19",
       "@vaadin/hilla-file-router": "24.6.5",
       "@vaadin/hilla-frontend": "24.6.5",
